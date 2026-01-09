@@ -1,0 +1,15 @@
+name = "Context based templates - an example"
+uid = "ctb-example-01133131313"
+version = 1
+description = "An example on how to customize the context based templates"
+author = "lordfapington"
+icon = "/mods/contexttemplatescustom/icon.png"
+selectable = true
+enabled = true
+exclusive = false
+ui_only = true
+requires = {}
+requiresNames = {}
+conflicts = {}
+before = {}
+after = {}
