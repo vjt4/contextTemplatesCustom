@@ -2,7 +2,7 @@
 Template = {
     Name = "SAMGrid",
     TriggersOnLand = true,
-    TemplateSortingOrder = 12,
+    TemplateSortingOrder = 13,
     TemplateData = {
         3,
         3,
