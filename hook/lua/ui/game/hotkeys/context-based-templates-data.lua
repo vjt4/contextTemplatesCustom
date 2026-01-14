@@ -43,6 +43,7 @@ T3PDGrid = import(GroundContextPath .. '/T3PDGrid.lua').Template
 FLAKGrid = import(GroundContextPath .. '/FLAKGrid.lua').Template
 T2PDGrid = import(GroundContextPath .. '/T2PDGrid.lua').Template
 SAMGrid = import(GroundContextPath .. '/SAMGrid.lua').Template
+CappedDefense = import(GroundContextPath .. '/CappedDefense.lua').Template
 
 
 --#endregion
