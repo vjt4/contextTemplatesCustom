@@ -1,9 +1,9 @@
 ---@type ContextBasedTemplate
 ---@type ContextBasedTemplate
 Template = {
-    Name = "SAMGrid",
+    Name = "FLAKgrid",
     TriggersOnLand = true,
-    TemplateSortingOrder = 13,
+    TemplateSortingOrder = 9,
     TemplateData = {
         3,
         3,

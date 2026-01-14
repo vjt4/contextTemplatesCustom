@@ -1,8 +1,8 @@
 ---@type ContextBasedTemplate
 Template = {
-    Name = "SAMGrid",
+    Name = "SAMgrid",
     TriggersOnLand = true,
-    TemplateSortingOrder = 14,
+    TemplateSortingOrder = 7,
     TemplateData = {
         3,
         3,

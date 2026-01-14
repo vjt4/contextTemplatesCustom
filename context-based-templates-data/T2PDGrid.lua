@@ -1,8 +1,8 @@
 ---@type ContextBasedTemplate
 Template = {
-    Name = "T2PDGrid",
+    Name = "T2PDgrid",
     TriggersOnLand = true,
-    TemplateSortingOrder = 15,
+    TemplateSortingOrder = 8,
     TemplateData = {
                         12,
                         12,
