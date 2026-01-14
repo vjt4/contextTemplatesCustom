@@ -39,7 +39,9 @@ local GroundContextPath = '/Mods/ContextTemplatesCustom/context-based-templates-
 
 -------------------------------------------------------------------------------
 --#region By mouse context
+FLAKGrid = import(GroundContextPath .. '/FLAKGrid.lua').Template
 T2PDGrid = import(GroundContextPath .. '/T2PDGrid.lua').Template
 SAMGrid = import(GroundContextPath .. '/SAMGrid.lua').Template
+
 --#endregion
 

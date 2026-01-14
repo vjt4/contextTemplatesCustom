@@ -1,38 +1,39 @@
 ---@type ContextBasedTemplate
+---@type ContextBasedTemplate
 Template = {
-    Name = "FLAKGrid",
+    Name = "SAMGrid",
     TriggersOnLand = true,
-    TemplateSortingOrder = 12,
-      templateData = {
-        14,
-        14,
+    TemplateSortingOrder = 13,
+    TemplateData = {
+        3,
+        3,
         {
             'ueb2204',
-            277,
+            7210,
             0,
             0
         },
         {
             'ueb2204',
-            357,
+            7611,
             6,
             0
         },
         {
             'ueb2204',
-            442,
+            7664,
             0,
             -6
         },
         {
             'ueb2204',
-            469,
+            7768,
             -6,
             0
         },
         {
             'ueb2204',
-            501,
+            7827,
             0,
             6
         }

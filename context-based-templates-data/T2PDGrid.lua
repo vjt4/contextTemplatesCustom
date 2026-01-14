@@ -2,7 +2,7 @@
 Template = {
     Name = "T2PDGrid",
     TriggersOnLand = true,
-    TemplateSortingOrder = 12,
+    TemplateSortingOrder = 15,
     TemplateData = {
                         12,
                         12,
