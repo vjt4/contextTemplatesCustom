@@ -1,7 +1,7 @@
-name = "ContextGroundTemplates"
-uid = "b999b414-6734-4352-b81c-7e0e2d4bccda"
-version = 1
-description = "Provides late-game cap/append context templates such as: Gateway with T2 Fabs, T3 Pgen with T2 Fabs"
+name = "ContextTemplatesCustom"
+uid = "b999b414-63334-4352-b81c-7e0e2d4bccda"
+version = 3
+description = "Adds context templates on the ground for t2/t3 pd grid, t2/t3 AA grids fixed icon"
 author = "lordfappington"
 icon = "icon.png"
 exclusive = false
