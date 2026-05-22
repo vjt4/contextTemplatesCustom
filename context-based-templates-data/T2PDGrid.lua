@@ -2,6 +2,7 @@
 Template = {
     Name = "T2PDgrid",
     TriggersOnLand = true,
+    TriggersOnUnit = categories.DEFENSE * categories.STRUCTURE * categories.TECH2 * categories.DIRECTFIRE,
     TemplateSortingOrder = 11,
     TemplateData = {
         12,
@@ -16,24 +17,24 @@ Template = {
             'ueb2301',
             5298,
             0,
-            -6
+            5
         },
         {
             'ueb2301',
             5411,
             0,
-            6
+            -5
         },
         {
             'ueb2301',
             5430,
-            -6,
+            -5,
             0
         },
         {
             'ueb2301',
             5594,
-            6,
+            5,
             0
         }
     },

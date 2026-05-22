@@ -2,6 +2,7 @@
 Template = {
     Name = "SAMgrid",
     TriggersOnLand = true,
+    TriggersOnUnit = categories.ANTIAIR * categories.STRUCTURE * categories.TECH3,
     TemplateSortingOrder = 12,
     TemplateData = {
         3,
