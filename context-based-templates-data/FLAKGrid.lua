@@ -2,7 +2,7 @@
 ---@type ContextBasedTemplate
 Template = {
     Name = "FLAKgrid",
-    TriggersOnLand = true,
+    TriggersOnUnit = categories.DEFENSE * categories.STRUCTURE * categories.TECH2 * categories.ANTIAIR,
     TemplateSortingOrder = 8,
     TemplateData = {
         3,

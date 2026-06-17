@@ -1,7 +1,7 @@
 ---@type ContextBasedTemplate
 Template = {
     Name = "T3PDgrid",
-    TriggersOnLand = true,
+    TriggersOnUnit = categories.DEFENSE * categories.STRUCTURE * categories.TECH3 * categories.DIRECTFIRE,
     TemplateSortingOrder = 13,
     TemplateData = {
         3,
