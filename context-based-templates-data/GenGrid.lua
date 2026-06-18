@@ -3,44 +3,38 @@ Template = {
     Name = "GenGrid",
     TriggersOnLand = true,
     TemplateSortingOrder = 14,
-      templateData = {
-        5,
-        5,
+    templateData = {
+        18,
+        18,
         {
-            'ueb1301',
-            17310,
+            'dummy',
+            0,
             0,
             0
         },
         {
-            'ueb1105',
-            17520,
-            5,
-            -3
+            'ueb1301',
+            657,
+            0,
+            0
+        },
+        {
+            'ueb1301',
+            767,
+            10,
+            0
         },
         {
             'ueb1105',
-            17554,
-            5,
-            -1
-        },
-        {
-            'ueb1105',
-            17654,
-            5,
-            1
-        },
-        {
-            'ueb1105',
-            17716,
+            842,
             5,
             3
         },
         {
-            'ueb1301',
-            17836,
-            10,
-            0
+            'ueb1105',
+            964,
+            5,
+            -3
         }
     },
 }
