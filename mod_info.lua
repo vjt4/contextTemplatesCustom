@@ -1,8 +1,8 @@
 name = "ContextTemplatesCustom"
-uid = "b6765b414-63334-4352-b81c-7e0e2d4bccda"
-version = 3
-description = "Adds context templates on the ground for t2/t3 pd grid, t2/t3 AA grids fixed icon"
-author = "lordfappington"
+uid = "b6765b414-63334-4352-b81c-7e0e2d4bccasda"
+version = 4
+description = "Adds context templates on the ground for t2/t3 pd grid, t2/t3 AA grids fixed icon, added mass farm and energy farm. Land grid no shields."
+author = "HotCheeseInRear"
 icon = "/mods/ContextTemplatesCustom/icon.png"
 exclusive = false
 ui_only = true
