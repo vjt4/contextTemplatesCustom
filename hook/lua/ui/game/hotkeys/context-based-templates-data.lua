@@ -45,7 +45,7 @@ T2PDGrid = import(GroundContextPath .. '/T2PDGrid.lua').Template
 AirDefenseLand = import(GroundContextPath .. '/SAMGrid.lua').Template
 LandGrid2 = import(GroundContextPath .. '/LandGrid2.lua').Template
 MassFarm = import(GroundContextPath .. '/MassFarm.lua').Template
---GenGrid = import(GroundContextPath .. '/GenGrid.lua').Template
+GenGrid = import(GroundContextPath .. '/GenGrid.lua').Template
 
 
 --#endregion

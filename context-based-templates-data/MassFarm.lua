@@ -2,7 +2,7 @@
 Template = {
     Name = "MassFarm",
     TriggersOnUnit = categories.STRUCTURE * categories.MASSFABRICATION * categories.TECH3,
-    TemplateSortingOrder = 101,
+    TemplateSortingOrder = 99,
     TemplateData = {
         10,
         10,

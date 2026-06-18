@@ -1,19 +1,13 @@
 ---@type ContextBasedTemplate
 Template = {
     Name = "GenGrid",
-    TriggersOnLand = true,
-    TemplateSortingOrder = 14,
-    templateData = {
+    TriggersOnBuilding = categories.STRUCTURE * categories.ENERGYPRODUCTION * categories.TECH3,
+    TemplateSortingOrder = 999,
+    TemplateData = {
         18,
         18,
         {
             'dummy',
-            0,
-            0,
-            0
-        },
-        {
-            'ueb1301',
             657,
             0,
             0
