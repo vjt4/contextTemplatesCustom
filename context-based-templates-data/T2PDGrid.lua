@@ -1,7 +1,6 @@
 ---@type ContextBasedTemplate
 Template = {
     Name = "T2PDgrid",
-    TriggersOnLand = true,
     TriggersOnUnit = categories.DEFENSE * categories.STRUCTURE * categories.TECH2 * categories.DIRECTFIRE,
     TemplateSortingOrder = 11,
     TemplateData = {
